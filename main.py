@@ -1,4 +1,4 @@
-# в терминал устанавливаем телебот и pip install python-telegram-bot
+
 import mysql.connector #database
 import telebot
 from telebot import types
