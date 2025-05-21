@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 
-API_TOKEN = '6443601430:AAFsYzeESGE77uJHGhd931QGvPfvunWzsCY'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 text1 = "Стоимость билета: 3500р\n\nВАЖНО: При покупке билета обязательно указывай ФИО в сообщении к переводу.\n\nТИНЬКОФФ:\n2200 7004 3633 8304\n\nСБЕР:\n5469 9804 7066 3226\n\nПо номеру телефона:\n+7 (999) 560-50-04\nМаксим Викторович Е.\n\nПОСЛЕ СОВЕРШЕНИЯ ОПЛАТЫ:\n\nПожалуйста, напиши свое ФИО"
 
